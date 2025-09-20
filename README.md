@@ -47,19 +47,19 @@ Left arrow - To Push him farther away
 
 ### Screenshots (Add at least 3)
 
-![Screenshot1](Add screenshot 1 link)  
-*Add caption explaining what this shows*
+![Screenshot1](https://drive.google.com/file/d/12H2zCNqWIKr9Ydmbqd7L-s383Ku1sGsp/view?usp=drive_link)  
+*Game over*
 
-![Screenshot2](Add screenshot 2 link)  
-*Add caption explaining what this shows*
+![Screenshot2](https://drive.google.com/file/d/1z1tX6aFEWlMW1dTcKJ7bnWWebKAp_Jne/view?usp=drive_link)  
+*Game Interface*
 
-![Screenshot3](Add screenshot 3 link)  
-*Add caption explaining what this shows*
+![Screenshot3](https://drive.google.com/file/d/1HpKMzLbA7293a6vHxrmS5fWorezRsRz2/view?usp=drive_link)  
+*Game Obstacles*
 
 ### Game Demo
 
 #### Gameplay Video
-[Add link to gameplay video]  
+[\[Add link to gameplay video\] ](https://drive.google.com/file/d/11_nTOp6f6TF3eIhxlTqpNS3q0FZEEm18/view?usp=drive_link) 
 
 ## Game Download / Deployment
 - **Deployed Web Version (if any):** [\[Link to web build\]](https://aarya-tejaswini.github.io/hackcade-hackathon/)
