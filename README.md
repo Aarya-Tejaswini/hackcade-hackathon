@@ -12,10 +12,16 @@
 - **Member 3:** A C Govardhan - TKM College of Engineering, Karicode Kollam.
 
 ## Game Description
-[2-3 lines about what your game is, the genre, and what makes it fun or unique.]
+As the folklores of Kadamattath Kathanar chasing KalliyanKattil Neeli whispers as a popular myth, let us help neeli get away from the cunning priest.
+Unlike other running games where the objective is to dodge away from obstacles, the game stands out by making the antagonist collide with the obstacles to help neeli(protagonist) get away!
 
 ## The Concept
-[Explain the core idea of the game—story, gameplay mechanics, or main objective.]
+The objective of the game is to rescue Neeli from the evil hands of Kadamattath Kathanar. The player controls kathanar and helps Neeli to get away from him by hiting into all the obstacles on the way. 
+The player has to make sure that kathanar hits all the obstacles like bats and spiders on the run. The more obstacles he hits the farther away from her.
+
+Game controls:
+Up arrow - Jumping
+Left arrow - To Push him farther away
 
 ## Technical Details
 
@@ -33,7 +39,8 @@
 **Example:**
 ```bash
    git clone https://github.com/[YourRepo]/[GameName].git
-   cd [GameName]
+   cd hackcade-hackathon
+   then open index.html in browser
 ```
 
 ## Game Documentation
@@ -55,6 +62,5 @@
 [Add link to gameplay video]  
 
 ## Game Download / Deployment
-- **Playable Version / Download:** [Link to executable or archive]
-- **Deployed Web Version (if any):** [Link to web build]
+- **Deployed Web Version (if any):** [\[Link to web build\]](https://aarya-tejaswini.github.io/hackcade-hackathon/)
 
